@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SpxRZCalU4AzmqregdiNcW+4vCP1GY5LyrkfaGpB2EK4ebVQFvuG+y8wJ+Vp24cKR9vOzjaqccM0Aq4BGqlTqQ==",
+  "dgSpecHash": "rbWhzXj0/kxHGKFrAocvPVj8Bz8Cc4MOwx3jc/Xp5HYG4VDxdThpLcBDs5pRhthhmUv//q5lG7HCVk8P2u8jrA==",
   "success": true,
-  "projectFilePath": "/mnt/temp/foglalasok/foglalasok/foglalasok.csproj",
+  "projectFilePath": "/mnt/temp/jegyzet1/2/foglalasok.csproj",
   "expectedPackageFiles": [
     "/home/user/.nuget/packages/bouncycastle.cryptography/2.2.1/bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "/home/user/.nuget/packages/google.protobuf/3.25.1/google.protobuf.3.25.1.nupkg.sha512",

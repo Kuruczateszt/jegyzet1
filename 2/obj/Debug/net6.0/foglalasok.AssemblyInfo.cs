@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("foglalasok")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43ef0f422bbbc6f218bfd3ec1c4ebb61216e3f15")]
 [assembly: System.Reflection.AssemblyProductAttribute("foglalasok")]
 [assembly: System.Reflection.AssemblyTitleAttribute("foglalasok")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

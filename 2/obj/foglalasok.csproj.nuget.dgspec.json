@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/temp/foglalasok/foglalasok/foglalasok.csproj": {}
+    "/mnt/temp/jegyzet1/2/foglalasok.csproj": {}
   },
   "projects": {
-    "/mnt/temp/foglalasok/foglalasok/foglalasok.csproj": {
+    "/mnt/temp/jegyzet1/2/foglalasok.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/temp/foglalasok/foglalasok/foglalasok.csproj",
+        "projectUniqueName": "/mnt/temp/jegyzet1/2/foglalasok.csproj",
         "projectName": "foglalasok",
-        "projectPath": "/mnt/temp/foglalasok/foglalasok/foglalasok.csproj",
+        "projectPath": "/mnt/temp/jegyzet1/2/foglalasok.csproj",
         "packagesPath": "/home/user/.nuget/packages/",
-        "outputPath": "/mnt/temp/foglalasok/foglalasok/obj/",
+        "outputPath": "/mnt/temp/jegyzet1/2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/user/.nuget/NuGet/NuGet.Config"
