@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "celloveszetCLI/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/celloveszetCLI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/celloveszetCLI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "celloveszetCLI/1.0.0": {
+      "type": "project",
+      "path": "../celloveszetCLI/celloveszetCLI.csproj",
+      "msbuildProject": "../celloveszetCLI/celloveszetCLI.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "celloveszetCLI >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\root\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\root\\Desktop\\celloveszetCLI\\celloveszetCLI\\lovesekWPF\\lovesekWPF.csproj",
+      "projectName": "lovesekWPF",
+      "projectPath": "C:\\Users\\root\\Desktop\\celloveszetCLI\\celloveszetCLI\\lovesekWPF\\lovesekWPF.csproj",
+      "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\root\\Desktop\\celloveszetCLI\\celloveszetCLI\\lovesekWPF\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\root\\Desktop\\celloveszetCLI\\celloveszetCLI\\celloveszetCLI\\celloveszetCLI.csproj": {
+              "projectPath": "C:\\Users\\root\\Desktop\\celloveszetCLI\\celloveszetCLI\\celloveszetCLI\\celloveszetCLI.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.26, 6.0.26]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.26, 6.0.26]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.26, 6.0.26]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.26, 6.0.26]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

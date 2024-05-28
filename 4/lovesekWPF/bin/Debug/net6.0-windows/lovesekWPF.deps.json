@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "lovesekWPF/1.0.0": {
+        "dependencies": {
+          "celloveszetCLI": "1.0.0"
+        },
+        "runtime": {
+          "lovesekWPF.dll": {}
+        }
+      },
+      "celloveszetCLI/1.0.0": {
+        "runtime": {
+          "celloveszetCLI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lovesekWPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "celloveszetCLI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
